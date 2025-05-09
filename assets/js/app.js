@@ -40,7 +40,7 @@ app.routers.MainRouter = Backbone.Router.extend({
   },
 
   demo: function(){
-    $.getJSON( "/data/brian.json", function(data) {
+    $.getJSON( "/data/theboys.json", function(data) {
       var params = $.extend({}, config);
       params.transit = data;
       params.transit.legend = 1;
@@ -54,7 +54,7 @@ app.routers.MainRouter = Backbone.Router.extend({
   },
 
   home: function(){
-    $.getJSON( "/data/brian.json", function(data) {
+    $.getJSON( "/data/theboys.json", function(data) {
       var params = $.extend({}, config);
       params.transit = data;
       params.transit.legend = 0;
