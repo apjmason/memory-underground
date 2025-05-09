@@ -1,0 +1,140 @@
+{
+    "title": "The Boys",
+    "slug": "tjeg7c1a",
+    "user": false,
+    "token": "cekba17fp2s",
+    "legend": 1,
+    "labels": 1,
+    "stations": [
+        {
+            "label": "Wading River Elementary",
+            "lines": [
+                "Austin",
+                "Chris",
+                "Matt"
+            ]
+        },
+        {
+            "label": "Briarcliff",
+            "lines": [
+                "Jamie",
+                "Dan"
+            ]
+        },
+        {
+            "label": "Prodell Middle School",
+            "lines": [
+                "Austin",
+                "Chris",
+                "Jamie",
+                "Matt",
+                "Dan"
+            ]
+        },
+        {
+            "label": "SWR High School",
+            "lines": [
+                "Austin",
+                "Chris",
+                "Jamie",
+                "Matt",
+                "Dan"
+            ]
+        },
+        {
+            "label": "New Jersey",
+            "lines": [
+                "Matt"
+            ]
+        },
+        {
+            "label": "New Hampshire",
+            "lines": [
+                "Chris",
+                "Jamie"
+            ]
+        },
+        {
+            "label": "Virginia",
+            "lines": [
+                "Austin"
+            ]
+        },
+        {
+            "label": "Connecticut",
+            "lines": [
+                "Dan"
+            ]
+        },
+        {
+            "label": "Long Island",
+            "lines": [
+                "Austin",
+                "Chris",
+                "Jamie",
+                "Matt",
+                "Dan"
+            ]
+        },
+        {
+            "label": "California",
+            "lines": [
+                "Chris"
+            ]
+        },
+        {
+            "label": "Hoboken",
+            "lines": [
+                "Austin",
+                "Jamie",
+                "Matt"
+            ]
+        },
+        {
+            "label": "Brooklyn",
+            "lines": [
+                "Jamie",
+                "Matt"
+            ]
+        },
+        {
+            "label": "Portland",
+            "lines": [
+                "Jamie",
+                "Matt",
+                "Dan"
+            ]
+        },
+        {
+            "label": "England",
+            "lines": [
+                "Austin"
+            ]
+        },
+        {
+            "label": "Boston",
+            "lines": [
+                "Austin"
+            ]
+        },
+        {
+            "label": "North Carolina",
+            "lines": [
+                "Austin"
+            ]
+        },
+        {
+            "label": "Minneapolis",
+            "lines": [
+                "Austin"
+            ]
+        }
+    ],
+    "lines": [
+        "Austin",
+        "Chris",
+        "Matt",
+        "Jamie",
+        "Dan"
+    ]
+}
