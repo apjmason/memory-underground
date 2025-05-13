@@ -8,7 +8,7 @@ Convert a list of memories into a subway map http://memoryunderground.brianfoo.c
 2. Clone this repository:
 
    ```
-   git clone https://github.com/beefoo/memory-underground.git
+   git clone https://github.com/apjmason/memory-underground.git
    cd memory-underground
    ```
    
