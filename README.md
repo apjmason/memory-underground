@@ -20,3 +20,9 @@ Convert a list of memories into a subway map http://memoryunderground.brianfoo.c
    ```
    
 4. Then go to [localhost:8888/](http://localhost:8888/)
+
+## Creating and saving new maps
+
+1. Create a new map using the GUI interface and tweak until you're satisfied
+2. Save the png and svg outputs from the Finish & View tab
+3. To save the data, you must find it in [browser localStorage]([url](https://developer.chrome.com/docs/devtools/storage/localstorage)) and paste into a json file
