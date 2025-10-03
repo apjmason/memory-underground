@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="map-svg" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1680 1200">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #45a844;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8 {
+        stroke-width: 2px;
+      }
+
+      .st0, .st9, .st10 {
+        stroke: #45a844;
+      }
+
+      .st11, .st12, .st13, .st14, .st9, .st15, .st16, .st17, .st18, .st19, .st7, .st10, .st20 {
+        fill: none;
+        stroke-opacity: .9;
+      }
+
+      .st11, .st12, .st13, .st14, .st9, .st15, .st16, .st17, .st18, .st19, .st10, .st20 {
+        stroke-width: 8px;
+      }
+
+      .st11, .st6, .st19 {
+        stroke: #f6802c;
+      }
+
+      .st1 {
+        fill: #e5303c;
+      }
+
+      .st1, .st14, .st15 {
+        stroke: #e5303c;
+      }
+
+      .st12 {
+        stroke-dasharray: 1217.5 1217.5;
+        stroke-dashoffset: 8.5px;
+      }
+
+      .st12, .st5, .st16 {
+        stroke: #fec91a;
+      }
+
+      .st2 {
+        fill: #e8ddc2;
+      }
+
+      .st2, .st8 {
+        stroke: #444;
+      }
+
+      .st3 {
+        fill: #c1477f;
+      }
+
+      .st3, .st17, .st20 {
+        stroke: #c1477f;
+      }
+
+      .st13 {
+        stroke-dasharray: 1252.5 1252.5;
+        stroke-dashoffset: 8.8px;
+      }
+
+      .st13, .st4, .st18 {
+        stroke: #3d84ca;
+      }
+
+      .st4 {
+        fill: #3d84ca;
+      }
+
+      .st14 {
+        stroke-dasharray: 1244.5 1244.5;
+        stroke-dashoffset: 8.7px;
+      }
+
+      .st5 {
+        fill: #fec91a;
+      }
+
+      .st9 {
+        stroke-dasharray: 1234.3 1234.3;
+        stroke-dashoffset: 8.6px;
+      }
+
+      .st17 {
+        stroke-dasharray: 1254.9 1254.9;
+        stroke-dashoffset: 9.4px;
+      }
+
+      .st21 {
+        font-size: 13px;
+      }
+
+      .st21, .st22, .st23, .st24 {
+        font-family: Helvetica, Helvetica;
+        isolation: isolate;
+      }
+
+      .st22, .st23 {
+        font-size: 14px;
+      }
+
+      .st22, .st8 {
+        fill: #fff;
+      }
+
+      .st6 {
+        fill: #f6802c;
+      }
+
+      .st19 {
+        stroke-dasharray: 1247.5 1247.5;
+        stroke-dashoffset: 8.7px;
+      }
+
+      .st7 {
+        stroke: #aaa;
+        stroke-dasharray: 2 2;
+      }
+
+      .st24 {
+        font-size: 24px;
+      }
+    </style>
+  </defs>
+  <rect class="st2" x="840" y="200" width="320" height="290"/>
+  <path class="st14" d="M200,200v49.8c0,16.5,3.3,22.9,10,31.1,6.7,8.2,35.8,5.1,78.5,5.1h143.5c42.7,0,52.6-1.7,59.3,5,6.7,6.7,5,34.7,5,53.2v105.5c0,13,0,25.7,6.7,32,6.7,6.3,20,6.3,51.4,6.3h112.5c31.4,0,44.8,0,51.4,10.3,6.7,10.3,6.7,31,6.7,48v156.2c0,27.8,0,41.2,5.6,47.8,5.6,6.7,16.8,6.7,22.3,13.3,5.6,6.7,5.6,20,5.6,45.5v140.8"/>
+  <path class="st19" d="M212,200v7.8c0,7.8,0,23.5,4.1,31.3,4.1,7.8,12.4,7.8,16.6,16.7s4.1,26.5,4.1,42v178.8c0,32.7,0,46,6.7,52.7,6.7,6.7,20,6.7,35.1,6.7h47c15.1,0,28.4,0,35.1,6.7,6.7,6.7,6.7,20,6.7,32.3v226.3c0,18,0,37.3,6.7,47,6.7,9.7,20,9.7,80.5,9.7h228.8c60.5,0,73.9,0,80.5,6.7s6.7,20,6.7,28.7v56.7"/>
+  <path class="st12" d="M224,200v13.3c0,13.3,0,40,8.7,53.3,8.7,13.3,26.2,13.3,35,25,8.7,11.7,8.7,35,8.7,55v50.2c0,13.5,0,23.8,6.7,29,6.7,5.2,20,5.2,49.5,5.2h104.8c29.5,0,42.9,0,49.5,11.5s6.7,34.5,6.7,52.7v129.8c0,22.3,0,35.7,6.7,42.3,6.7,6.7,20,6.7,26.7,6.7h13.5c6.7,0,20,0,26.7,6.7s6.7,20,6.7,42.7v173.2c0,13.2,0,22.8,6.7,27.7,6.7,4.8,20,4.8,48.1,4.8h99.1c28.1,0,41.4,0,48.1,3.5,6.7,3.5,6.7,10.5,6.7,14v3.5"/>
+  <path class="st9" d="M236,200v5.5c0,5.5,0,16.5,8.7,22s26.2,5.5,35,12.2c8.7,6.7,8.7,20,8.7,32.8v220c0,15.8,0,29.2,6.7,35.8,6.7,6.7,20,6.7,28.5,6.7h20.6c8.5,0,21.8,0,28.5,6.7,6.7,6.7,6.7,20,6.7,32.5v223.3c0,14.2,0,25.8,6.7,31.7,6.7,5.8,20,5.8,47.7,5.8h97.7c27.7,0,41.1,0,47.7,2.5,6.7,2.5,6.7,7.5,6.7,18.3v42.3c0,14.8,0,27.8,6.7,34.3s20,6.5,48.1,6.5h99.1c28.1,0,41.4,0,48.1,1.8,6.7,1.8,6.7,5.5,6.7,7.3v1.8"/>
+  <path class="st13" d="M248,200v57.5c0,8.8,0,22.2,8.7,28.8,8.7,6.7,26.2,6.7,35,16.2s8.7,28.5,8.7,46.7,0,35.5,6.7,44.2c6.7,8.7,20,8.7,64.1,8.7h163c44.1,0,57.4,0,64.1,6.7,6.7,6.7,6.7,20,6.7,46.3v315.8c0,31.5,0,44.8-1.2,51.5-1.2,6.7-3.5,6.7-4.7,18.5-1.2,11.8-1.2,35.5-1.2,49.2s0,17.3,6.7,19.2c6.7,1.8,20,1.8,48.1,1.8h99.1c28.1,0,41.4,0,48.1,6.5,6.7,6.5,6.7,19.5,6.7,26v6.5"/>
+  <path class="st17" d="M260,200v65.8c0,10.5,0,23.8,8.7,30.5,8.7,6.7,26.2,6.7,35,14.5,8.7,7.8,8.7,23.5,8.7,38v107.8c0,18.7,0,32,6.7,38.7,6.7,6.7,20.2,15.7,64.3,15.7h161.6c44.1,0,57.2-.7,63.9,6,6.7,6.7,8,11.7,8,21.3v155c0,16,0,29.3-1.2,36-1.2,6.7-3.5,6.7-4.7,13.3-1.2,6.7-1.2,20-1.2,40.7v113.5c0,10.2,0,17.2,6.7,20.7s20,3.5,48.1,3.5h99.1c28.1,0,41.4,0,48.1,4.8,6.7,4.8,6.7,14.5,6.7,19.3v4.8"/>
+  <path class="st7" d="M200,170v30"/>
+  <path class="st7" d="M758.5,950v30"/>
+  <path class="st7" d="M212,140v60"/>
+  <path class="st7" d="M770.5,950v60"/>
+  <path class="st7" d="M224,170v30"/>
+  <path class="st7" d="M782.5,950v30"/>
+  <path class="st7" d="M236,140v60"/>
+  <path class="st7" d="M794.5,950v60"/>
+  <path class="st7" d="M248,170v30"/>
+  <path class="st7" d="M806.5,950v30"/>
+  <path class="st7" d="M260,140v60"/>
+  <path class="st7" d="M818.5,950v60"/>
+  <path class="st15" d="M900,290h80"/>
+  <path class="st11" d="M900,320h80"/>
+  <path class="st16" d="M900,350h80"/>
+  <path class="st10" d="M900,380h80"/>
+  <path class="st18" d="M900,410h80"/>
+  <path class="st20" d="M900,440h80"/>
+  <circle class="st8" cx="200" cy="200" r="4"/>
+  <circle class="st8" cx="200" cy="250" r="4"/>
+  <circle class="st8" cx="496.3" cy="450" r="4"/>
+  <circle class="st8" cx="725" cy="550" r="4"/>
+  <circle class="st8" cx="758.5" cy="950" r="4"/>
+  <circle class="st8" cx="212" cy="200" r="4"/>
+  <circle class="st8" cx="236.9" cy="300" r="4"/>
+  <circle class="st8" cx="367.4" cy="650" r="4"/>
+  <circle class="st8" cx="367.4" cy="700" r="4"/>
+  <circle class="st8" cx="367.4" cy="750" r="4"/>
+  <circle class="st8" cx="367.4" cy="800" r="4"/>
+  <circle class="st8" cx="770.5" cy="950" r="4"/>
+  <circle class="st8" cx="224" cy="200" r="4"/>
+  <circle class="st8" cx="276.4" cy="350" r="4"/>
+  <circle class="st8" cx="276.4" cy="400" r="4"/>
+  <circle class="st8" cx="493.7" cy="500" r="4"/>
+  <circle class="st8" cx="573.8" cy="850" r="4"/>
+  <circle class="st8" cx="573.8" cy="900" r="4"/>
+  <circle class="st8" cx="782.5" cy="950" r="4"/>
+  <circle class="st8" cx="236" cy="200" r="4"/>
+  <circle class="st8" cx="288.4" cy="350" r="4"/>
+  <circle class="st8" cx="288.4" cy="400" r="4"/>
+  <circle class="st8" cx="379.4" cy="650" r="4"/>
+  <circle class="st8" cx="379.4" cy="700" r="4"/>
+  <circle class="st8" cx="379.4" cy="750" r="4"/>
+  <circle class="st8" cx="379.4" cy="800" r="4"/>
+  <circle class="st8" cx="585.8" cy="850" r="4"/>
+  <circle class="st8" cx="585.8" cy="900" r="4"/>
+  <circle class="st8" cx="794.5" cy="950" r="4"/>
+  <circle class="st8" cx="248" cy="200" r="4"/>
+  <circle class="st8" cx="300.4" cy="350" r="4"/>
+  <circle class="st8" cx="604.9" cy="600" r="4"/>
+  <circle class="st8" cx="597.8" cy="900" r="4"/>
+  <circle class="st8" cx="806.5" cy="950" r="4"/>
+  <circle class="st8" cx="260" cy="200" r="4"/>
+  <circle class="st8" cx="312.4" cy="350" r="4"/>
+  <circle class="st8" cx="616.9" cy="600" r="4"/>
+  <circle class="st8" cx="609.8" cy="900" r="4"/>
+  <circle class="st8" cx="818.5" cy="950" r="4"/>
+  <circle class="st1" cx="200" cy="170" r="10"/>
+  <circle class="st1" cx="758.5" cy="980" r="10"/>
+  <circle class="st6" cx="212" cy="140" r="10"/>
+  <circle class="st6" cx="770.5" cy="1010" r="10"/>
+  <circle class="st5" cx="224" cy="170" r="10"/>
+  <circle class="st5" cx="782.5" cy="980" r="10"/>
+  <circle class="st0" cx="236" cy="140" r="10"/>
+  <circle class="st0" cx="794.5" cy="1010" r="10"/>
+  <circle class="st4" cx="248" cy="170" r="10"/>
+  <circle class="st4" cx="806.5" cy="980" r="10"/>
+  <circle class="st3" cx="260" cy="140" r="10"/>
+  <circle class="st3" cx="818.5" cy="1010" r="10"/>
+  <circle class="st1" cx="890" cy="290" r="10"/>
+  <circle class="st8" cx="940" cy="290" r="4"/>
+  <circle class="st6" cx="890" cy="320" r="10"/>
+  <circle class="st8" cx="940" cy="320" r="4"/>
+  <circle class="st5" cx="890" cy="350" r="10"/>
+  <circle class="st8" cx="940" cy="350" r="4"/>
+  <circle class="st0" cx="890" cy="380" r="10"/>
+  <circle class="st8" cx="940" cy="380" r="4"/>
+  <circle class="st4" cx="890" cy="410" r="10"/>
+  <circle class="st8" cx="940" cy="410" r="4"/>
+  <circle class="st3" cx="890" cy="440" r="10"/>
+  <circle class="st8" cx="940" cy="440" r="4"/>
+  <path class="st8" d="M200,196h60c2.2,0,4,1.8,4,4h0c0,2.2-1.8,4-4,4h-60c-2.2,0-4-1.8-4-4h0c0-2.2,1.8-4,4-4Z"/>
+  <path class="st8" d="M758.5,946h60c2.2,0,4,1.8,4,4h0c0,2.2-1.8,4-4,4h-60c-2.2,0-4-1.8-4-4h0c0-2.2,1.8-4,4-4Z"/>
+  <path class="st8" d="M276.4,346h36c2.2,0,4,1.8,4,4h0c0,2.2-1.8,4-4,4h-36c-2.2,0-4-1.8-4-4h0c0-2.2,1.8-4,4-4Z"/>
+  <path class="st8" d="M573.8,896h36c2.2,0,4,1.8,4,4h0c0,2.2-1.8,4-4,4h-36c-2.2,0-4-1.8-4-4h0c0-2.2,1.8-4,4-4Z"/>
+  <text class="st21" transform="translate(155.3 200)"><tspan x="0" y="0">Home</tspan></text>
+  <text class="st21" transform="translate(77.1 250)"><tspan x="0" y="0">Camp Warren (MN)</tspan></text>
+  <text class="st21" transform="translate(353.9 450)"><tspan x="0" y="0">Boundary Waters (MN)</tspan></text>
+  <text class="st21" transform="translate(602.1 550)"><tspan x="0" y="0">Camp Warren (MN)</tspan></text>
+  <text class="st21" transform="translate(713.8 950)"><tspan x="0" y="0">Home</tspan></text>
+  <text class="st21" transform="translate(133.7 300)"><tspan x="0" y="0">IMC Leeds (UK)</tspan></text>
+  <text class="st21" transform="translate(283.7 650)"><tspan x="0" y="0">London (UK)</tspan></text>
+  <text class="st21" transform="translate(288 700)"><tspan x="0" y="0">Oxford (UK)</tspan></text>
+  <text class="st21" transform="translate(249.7 750)"><tspan x="0" y="0">South Downs (UK)</tspan></text>
+  <text class="st21" transform="translate(283.7 800)"><tspan x="0" y="0">London (UK)</tspan></text>
+  <text class="st21" transform="translate(168.4 350)"><tspan x="0" y="0">Frog Hollow (VA)</tspan></text>
+  <text class="st21" transform="translate(179 400)"><tspan x="0" y="0">Baltimore (MD)</tspan></text>
+  <text class="st21" transform="translate(365.9 500)"><tspan x="0" y="0">Johns Hopkins (MD)</tspan></text>
+  <text class="st21" transform="translate(476.5 850)"><tspan x="0" y="0">Baltimore (MD)</tspan></text>
+  <text class="st21" transform="translate(465.8 900)"><tspan x="0" y="0">Frog Hollow (VA)</tspan></text>
+  <text class="st21" transform="translate(459.3 600)"><tspan x="0" y="0">Living Earth Camp (VA)</tspan></text>
+  <text class="st22" transform="translate(194.9 171)"><tspan x="0" y="0">R</tspan></text>
+  <text class="st22" transform="translate(753.5 981)"><tspan x="0" y="0">R</tspan></text>
+  <text class="st22" transform="translate(207.3 141)"><tspan x="0" y="0">A</tspan></text>
+  <text class="st22" transform="translate(765.8 1011)"><tspan x="0" y="0">A</tspan></text>
+  <text class="st22" transform="translate(219.7 171)"><tspan x="0" y="0">F</tspan></text>
+  <text class="st22" transform="translate(778.2 981)"><tspan x="0" y="0">F</tspan></text>
+  <text class="st22" transform="translate(231.3 141)"><tspan x="0" y="0">S</tspan></text>
+  <text class="st22" transform="translate(789.8 1011)"><tspan x="0" y="0">S</tspan></text>
+  <text class="st22" transform="translate(242.9 171)"><tspan x="0" y="0">H</tspan></text>
+  <text class="st22" transform="translate(801.5 981)"><tspan x="0" y="0">H</tspan></text>
+  <text class="st22" transform="translate(254.9 141)"><tspan x="0" y="0">C</tspan></text>
+  <text class="st22" transform="translate(813.5 1011)"><tspan x="0" y="0">C</tspan></text>
+  <text class="st24" transform="translate(880 240)"><tspan x="0" y="0">Mason Trips July 2025</tspan></text>
+  <text class="st22" transform="translate(884.9 291)"><tspan x="0" y="0">R</tspan></text>
+  <text class="st23" transform="translate(1000 290)"><tspan x="0" y="0">Rose Line</tspan></text>
+  <text class="st22" transform="translate(885.3 321)"><tspan x="0" y="0">A</tspan></text>
+  <text class="st23" transform="translate(1000 320)"><tspan x="0" y="0">Austin Line</tspan></text>
+  <text class="st22" transform="translate(885.7 351)"><tspan x="0" y="0">F</tspan></text>
+  <text class="st23" transform="translate(1000 350)"><tspan x="0" y="0">Finn Line</tspan></text>
+  <text class="st22" transform="translate(885.3 381)"><tspan x="0" y="0">S</tspan></text>
+  <text class="st23" transform="translate(1000 380)"><tspan x="0" y="0">Susan Line</tspan></text>
+  <text class="st22" transform="translate(884.9 411)"><tspan x="0" y="0">H</tspan></text>
+  <text class="st23" transform="translate(1000 410)"><tspan x="0" y="0">Henry Line</tspan></text>
+  <text class="st22" transform="translate(884.9 441)"><tspan x="0" y="0">C</tspan></text>
+  <text class="st23" transform="translate(1000 440)"><tspan x="0" y="0">Charlie Line</tspan></text>
+</svg>

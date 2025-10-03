@@ -1,0 +1,137 @@
+{
+    "title": "Mason Trips July 2025",
+    "slug": "akxahpcx",
+    "user": false,
+    "token": "yh4l8utqbrl",
+    "legend": 1,
+    "labels": 1,
+    "stations": [
+        {
+            "label": "Home",
+            "lines": [
+                "Rose",
+                "Austin",
+                "Finn",
+                "Susan",
+                "Henry",
+                "Charlie"
+            ]
+        },
+        {
+            "label": "Camp Warren (MN)",
+            "lines": [
+                "Rose"
+            ]
+        },
+        {
+            "label": "IMC Leeds (UK)",
+            "lines": [
+                "Austin"
+            ]
+        },
+        {
+            "label": "Frog Hollow (VA)",
+            "lines": [
+                "Finn",
+                "Susan",
+                "Henry",
+                "Charlie"
+            ]
+        },
+        {
+            "label": "Baltimore (MD)",
+            "lines": [
+                "Finn",
+                "Susan"
+            ]
+        },
+        {
+            "label": "Boundary Waters (MN)",
+            "lines": [
+                "Rose"
+            ]
+        },
+        {
+            "label": "Johns Hopkins (MD)",
+            "lines": [
+                "Finn"
+            ]
+        },
+        {
+            "label": "Camp Warren (MN)",
+            "lines": [
+                "Rose"
+            ]
+        },
+        {
+            "label": "Living Earth Camp (VA)",
+            "lines": [
+                "Henry",
+                "Charlie"
+            ]
+        },
+        {
+            "label": "London (UK)",
+            "lines": [
+                "Austin",
+                "Susan"
+            ]
+        },
+        {
+            "label": "Oxford (UK)",
+            "lines": [
+                "Austin",
+                "Susan"
+            ]
+        },
+        {
+            "label": "South Downs (UK)",
+            "lines": [
+                "Austin",
+                "Susan"
+            ]
+        },
+        {
+            "label": "London (UK)",
+            "lines": [
+                "Austin",
+                "Susan"
+            ]
+        },
+        {
+            "label": "Baltimore (MD)",
+            "lines": [
+                "Finn",
+                "Susan"
+            ]
+        },
+        {
+            "label": "Frog Hollow (VA)",
+            "lines": [
+                "Finn",
+                "Susan",
+                "Henry",
+                "Charlie"
+            ]
+        },
+        {
+            "label": "Home",
+            "lines": [
+                "Rose",
+                "Austin",
+                "Finn",
+                "Susan",
+                "Henry",
+                "Charlie"
+            ]
+        }
+    ],
+    "lines": [
+        "Rose",
+        "Austin",
+        "Finn",
+        "Susan",
+        "Henry",
+        "Charlie"
+    ]
+}
